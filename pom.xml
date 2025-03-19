@@ -82,7 +82,7 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>are.example.Main</mainClass>
+                        <mainClass>org.example.Main</mainClass>
                     </manifest>
                 </archive>
             </configuration>
